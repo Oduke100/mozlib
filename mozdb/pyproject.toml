@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mozdb"
+version = "0.1.0"
+description = "A simple database management library"
+authors = [{ name = "Oduke", email = "odukem622@gmail.com" }]
+requires-python = ">=3.8"
+dependencies = []
