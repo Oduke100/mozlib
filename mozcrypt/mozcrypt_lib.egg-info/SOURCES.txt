@@ -1,0 +1,8 @@
+pyproject.toml
+mozcrypt/__init__.py
+mozcrypt/crypt.py
+mozcrypt_lib.egg-info/PKG-INFO
+mozcrypt_lib.egg-info/SOURCES.txt
+mozcrypt_lib.egg-info/dependency_links.txt
+mozcrypt_lib.egg-info/requires.txt
+mozcrypt_lib.egg-info/top_level.txt
